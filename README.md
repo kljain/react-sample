@@ -1,6 +1,3 @@
-# React Redux Authentication App
-
-A React application implementing user authentication using Redux for state management.
 
 ## Features
 
